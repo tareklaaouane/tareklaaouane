@@ -61,9 +61,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tareklaaouane/tareklaaouane/output/snake.svg" alt="Snake animation" />
 
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/tareklaaouane/count.svg?"  />
