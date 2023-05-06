@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"  />
 
 ###
 
@@ -61,16 +61,12 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/tareklaaouane/tareklaaouane/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/4w0lvxhvnwkcxq235415dyleh">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  <img src="https://profile-counter.glitch.me/tareklaaouane/count.svg?"  />
 </div>
 
 ###
